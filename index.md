@@ -1,5 +1,6 @@
 ## Joe Chamish
-![http://futurethink.com/wp-content/uploads/2017/05/Linkedin-logo-1-550x550-300x300.png](https://www.linkedin.com/in/joseph-chamish-7a324259)
+- [LinkedIn](https://www.linkedin.com/in/joseph-chamish-7a324259)
+- [github](https://github.com/jchamish)
 
 ### about
 I am current a Software Engineer at [ALK technologies](https://alk.com). Looking to become a Full-Stack Developer.
