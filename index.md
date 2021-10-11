@@ -3,7 +3,7 @@
 - [github](https://github.com/jchamish)
 
 ### about
-I am current a Software Engineer at [ALK technologies](https://alk.com). Looking to become a Full-Stack Developer.
+
 
 ### Experience
 
